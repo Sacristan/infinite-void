@@ -1,0 +1,2 @@
+<../images/Vegetation_Bark_Pine.jpg> <../images/Vegetation_Bark_Pine.jpg>
+<../images/Vegetation_Bark_Pine1noCulling.jpg> <../images/Vegetation_Bark_Pine1noCulling.jpg>
